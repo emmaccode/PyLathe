@@ -4,11 +4,13 @@ Lathe.lisp is a port of the machine-learning module for Julia, Python, and R (La
 Install it!\
 **Bash**
 ```bash
-sudo pip3 install (coming soon)
+sudo pip3 install Lathe (coming soon)
 ```
 **Python**
 ```python
-from Lathe import stats
-stats.mean([5,7,4,5,6,7,2])
+from Lathe.stats import StatTool
+stats = StatTool()
+stats.mean([5,10,15])
 ```
+(Yes, it's really that easy)
 [Julia Documentation (Python docs coming soon)](http://lathe.ai/doc.html)
