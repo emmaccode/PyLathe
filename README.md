@@ -1,6 +1,6 @@
 # PyLathe
 ![Lathe Logo](http://lathe.ai/logo.png)\
-Lathe.py is a wrapper of the machine-learning module for Julia, Lathe, ported into Python.\
+Lathe.py is a wrapper of the machine-learning module for Julia, Lathe, ported into Python.
 - Ensure you have julia.py installed:
 ```bash
 sudo pip3 install julia
