@@ -13,7 +13,7 @@ sudo pip3 install Lathe (coming soon)
 ```
 **Python**
 ```python
-from Runtime import ClassicEnvironment
+from Lathe.Runtime import ClassicEnvironment
 env = ClassicEnvironment()
 stats = env.importStats()
 stats.mean([5,10,15])
