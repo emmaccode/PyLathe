@@ -1,6 +1,6 @@
 # PyLathe
 ![Lathe Logo](http://lathe.ai/logo.png)\
-Lathe.lisp is a port of the machine-learning module for Julia, Python, and R (Lathe) into common lisp.\
+Lathe.py is a wrapper of the machine-learning module for Julia, Lathe, ported into Python.\
 Install it!\
 **Bash**
 ```bash
