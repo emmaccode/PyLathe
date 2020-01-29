@@ -9,7 +9,7 @@ sudo pip3 install julia
 Install it!\
 **Bash**
 ```bash
-sudo pip3 install Lathe (coming soon)
+sudo pip3 install PyLathe
 ```
 **Python**
 ```python
